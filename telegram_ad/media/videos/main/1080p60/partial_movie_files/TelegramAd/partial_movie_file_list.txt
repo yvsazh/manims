@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/telegram_ad/media/videos/main/1080p60/partial_movie_files/TelegramAd/3977891868_3441630172_3798600153.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/telegram_ad/media/videos/main/1080p60/partial_movie_files/TelegramAd/2852726489_4063850468_3763592049.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/telegram_ad/media/videos/main/1080p60/partial_movie_files/TelegramAd/2852726489_2207979588_1193943908.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/telegram_ad/media/videos/main/1080p60/partial_movie_files/TelegramAd/2852726489_2844360058_202196783.mp4'

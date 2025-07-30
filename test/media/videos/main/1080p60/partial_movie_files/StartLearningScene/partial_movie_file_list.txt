@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/test/media/videos/main/1080p60/partial_movie_files/StartLearningScene/3977891868_1484530160_223132457.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/test/media/videos/main/1080p60/partial_movie_files/StartLearningScene/2852726489_1622590067_363302102.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/test/media/videos/main/1080p60/partial_movie_files/StartLearningScene/2852726489_1248889098_597243074.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/test/media/videos/main/1080p60/partial_movie_files/StartLearningScene/2852726489_3318648325_952605612.mp4'
+file 'file:/Users/yaroslavsazhchenko/Documents/videos/manims/test/media/videos/main/1080p60/partial_movie_files/StartLearningScene/2852726489_206138768_1951719679.mp4'
